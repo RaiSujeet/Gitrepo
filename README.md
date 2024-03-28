@@ -1,2 +1,2 @@
 # Gitrepo
-Disceripation in breif about terraform variables
+Description in breif about terraform variables
